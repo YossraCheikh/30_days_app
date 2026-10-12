@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+    <string name="app_subtitle">30 daily habits for a healthier, happier mind and body</string>
+
+    <!-- Day Labels -->
+    <string name="day_1">Day 1</string>
+    <string name="day_1_title">Spend 15 minutes outdoors</string>
+    <string name="day_1_desc">Taking a short walk in a park or spending time in nature reduces stress, lowers blood pressure, and improves overall mood. Leave your phone in your pocket and soak in your surroundings.</string>
+
+    <string name="day_2">Day 2</string>
+    <string name="day_2_title">Listen to an inspiring podcast</string>
+    <string name="day_2_desc">Expand your knowledge or unwind with engaging stories and thoughtful discussions during a quiet break or your daily commute.</string>
+
+    <string name="day_3">Day 3</string>
+    <string name="day_3_title">Meditate for 5 minutes</string>
+    <string name="day_3_desc">Focus gently on your breath to quiet your mind, improve concentration, and reset your emotional balance for the rest of the day.</string>
+
+    <string name="day_4">Day 4</string>
+    <string name="day_4_title">Drink 8 glasses of water</string>
+    <string name="day_4_desc">Staying hydrated boosts your energy levels, improves skin health, and supports vital body functions throughout the day.</string>
+
+    <string name="day_5">Day 5</string>
+    <string name="day_5_title">Do a 15-minute body stretch</string>
+    <string name="day_5_desc">Relieve muscle stiffness, increase joint flexibility, and enhance circulation with a gentle full-body stretching session.</string>
+
+    <string name="day_6">Day 6</string>
+    <string name="day_6_title">Eat a portion of fresh fruit</string>
+    <string name="day_6_desc">Nourish your body with essential natural vitamins, antioxidants, and fiber by enjoying your favorite fresh seasonal fruit.</string>
+
+    <string name="day_7">Day 7</string>
+    <string name="day_7_title">Write 3 things you are grateful for</string>
+    <string name="day_7_desc">Practicing daily gratitude redirects your mind toward positivity, helping build long-term happiness, resilience, and inner calm.</string>
+
+    <string name="day_8">Day 8</string>
+    <string name="day_8_title">Take a 20-minute power walk</string>
+    <string name="day_8_desc">Elevate your heart rate and release invigorating endorphins with a brisk, active walk around your neighborhood.</string>
+
+    <string name="day_9">Day 9</string>
+    <string name="day_9_title">Disconnect screens 1 hour before bed</string>
+    <string name="day_9_desc">Avoid blue light exposure before bedtime to help your body produce melatonin for deeper, more restorative sleep.</string>
+
+    <string name="day_10">Day 10</string>
+    <string name="day_10_title">Try a healthy new recipe</string>
+    <string name="day_10_desc">Experiment in the kitchen with fresh, wholesome ingredients to prepare a meal that is both nutritious and delightful.</string>
+
+    <string name="day_11">Day 11</string>
+    <string name="day_11_title">Connect with a close friend</string>
+    <string name="day_11_desc">Reach out via a quick call or warm text message to strengthen your friendships and share a genuine moment of connection.</string>
+
+    <string name="day_12">Day 12</string>
+    <string name="day_12_title">Practice deep breathing</string>
+    <string name="day_12_desc">Inhale deeply for 4 seconds, hold for 4 seconds, and exhale for 6 seconds to instantly calm your nervous system.</string>
+
+    <string name="day_13">Day 13</string>
+    <string name="day_13_title">Declutter your workspace</string>
+    <string name="day_13_desc">Organizing your physical desk or workspace clears mental noise, boosts focus, and creates a peaceful environment.</string>
+
+    <string name="day_14">Day 14</string>
+    <string name="day_14_title">Listen to uplifting music</string>
+    <string name="day_14_desc">Music has a powerful ability to lift your spirit, reduce feelings of anxiety, and spark creative energy.</string>
+
+    <string name="day_15">Day 15</string>
+    <string name="day_15_title">Take a relaxing bath or shower</string>
+    <string name="day_15_desc">Let the warm water soothe tired muscles, release physical tension, and wash away the stress of the day.</string>
+
+    <string name="day_16">Day 16</string>
+    <string name="day_16_title">Read a chapter of an inspiring book</string>
+    <string name="day_16_desc">Immerse yourself in thoughtful reading to stimulate your mind, ignite imagination, and discover new perspectives.</string>
+
+    <string name="day_17">Day 17</string>
+    <string name="day_17_title">Practice posture awareness</string>
+    <string name="day_17_desc">Sit and stand upright with shoulders relaxed to improve lung capacity, reduce spinal strain, and boost confidence.</string>
+
+    <string name="day_18">Day 18</string>
+    <string name="day_18_title">Go for a light morning jog</string>
+    <string name="day_18_desc">Wake up your cardiovascular system and kickstart your metabolism with a gentle, refreshing morning run.</string>
+
+    <string name="day_19">Day 19</string>
+    <string name="day_19_title">Enjoy a cup of warm herbal tea</string>
+    <string name="day_19_desc">Sip soothing chamomile, mint, or green tea to aid digestion and enjoy a moment of mindful tranquility.</string>
+
+    <string name="day_20">Day 20</string>
+    <string name="day_20_title">Give a genuine compliment</string>
+    <string name="day_20_desc">Share kind and honest words with a colleague or loved one—kindness creates a ripple of joy for everyone involved.</string>
+
+    <string name="day_21">Day 21</string>
+    <string name="day_21_title">Declutter your smartphone</string>
+    <string name="day_21_desc">Delete unused apps, organize notification settings, and clean up your home screen to reduce digital fatigue.</string>
+
+    <string name="day_22">Day 22</string>
+    <string name="day_22_title">Practice 15 minutes of yoga</string>
+    <string name="day_22_desc">Flow through basic yoga poses to improve physical balance, core stability, and harmonious mind-body awareness.</string>
+
+    <string name="day_23">Day 23</string>
+    <string name="day_23_title">Get 8 hours of quality sleep</string>
+    <string name="day_23_desc">Prioritize early bedtime tonight to allow your body and brain optimal time for cellular repair and mental processing.</string>
+
+    <string name="day_24">Day 24</string>
+    <string name="day_24_title">Learn about a new topic</string>
+    <string name="day_24_desc">Read an article or watch an educational documentary on a subject you have always wanted to explore.</string>
+
+    <string name="day_25">Day 25</string>
+    <string name="day_25_title">Cook a meal from scratch</string>
+    <string name="day_25_desc">Enjoy the therapeutic process of chopping fresh vegetables and preparing a wholesome meal with love.</string>
+
+    <string name="day_26">Day 26</string>
+    <string name="day_26_title">Care for a houseplant</string>
+    <string name="day_26_desc">Watering, pruning, or placing a plant in sunlight connects you with nature and brings fresh vitality indoors.</string>
+
+    <string name="day_27">Day 27</string>
+    <string name="day_27_title">Perform a 5-minute body scan</string>
+    <string name="day_27_desc">Lie down in a quiet room and slowly bring gentle awareness to every part of your body from head to toe.</string>
+
+    <string name="day_28">Day 28</string>
+    <string name="day_28_title">Write down your goals for next month</string>
+    <string name="day_28_desc">Clarify your top aspirations and actionable steps to enter the upcoming month with purpose and enthusiasm.</string>
+
+    <string name="day_29">Day 29</string>
+    <string name="day_29_title">Perform a random act of kindness</string>
+    <string name="day_29_desc">Hold a door, support a local vendor, or leave an encouraging note to brighten someone\'s day unexpectedly.</string>
+
+    <string name="day_30">Day 30</string>
+    <string name="day_30_title">Reflect and celebrate your progress</string>
+    <string name="day_30_desc">Congratulations on completing 30 days of wellness! Take pride in every small positive habit you built along the way.</string>
+</resources>

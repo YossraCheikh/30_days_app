@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">30 Jours de Bien-être</string>
+    <string name="app_subtitle">30 habitudes quotidiennes pour un corps et un esprit épanouis</string>
+
+    <!-- Day Labels -->
+    <string name="day_1">Jour 1</string>
+    <string name="day_1_title">Passez 15 minutes dehors</string>
+    <string name="day_1_desc">Une courte promenade dans un parc ou du temps passé dans la nature réduit le stress, diminue la tension artérielle et améliore l\'humeur générale. Laissez votre téléphone dans votre poche et observez la nature.</string>
+
+    <string name="day_2">Jour 2</string>
+    <string name="day_2_title">Écoutez un podcast inspirant</string>
+    <string name="day_2_desc">Enrichissez vos connaissances ou détendez-vous avec des histoires captivantes et des discussions stimulantes pendant votre pause ou vos trajets.</string>
+
+    <string name="day_3">Jour 3</string>
+    <string name="day_3_title">Méditez pendant 5 minutes</string>
+    <string name="day_3_desc">Concentrez-vous doucement sur votre respiration pour calmer votre esprit, améliorer votre concentration et retrouver votre équilibre émotionnel pour la journée.</string>
+
+    <string name="day_4">Jour 4</string>
+    <string name="day_4_title">Buvez 8 verres d\'eau</string>
+    <string name="day_4_desc">Une bonne hydratation augmente votre niveau d\'énergie, améliore la santé de votre peau et soutient le fonctionnement de votre organisme.</string>
+
+    <string name="day_5">Jour 5</string>
+    <string name="day_5_title">Faites 15 minutes d\'étirements</string>
+    <string name="day_5_desc">Soulagez les raideurs musculaires, augmentez la souplesse de vos articulations et améliorez la circulation grâce à une séance d\'étirements doux.</string>
+
+    <string name="day_6">Jour 6</string>
+    <string name="day_6_title">Mangez une portion de fruits frais</string>
+    <string name="day_6_desc">Nourrissez votre corps avec des vitamines naturelles, des antioxydants et des fibres en dégustant vos fruits de saison préférés.</string>
+
+    <string name="day_7">Jour 7</string>
+    <string name="day_7_title">Écrivez 3 gratitudes</string>
+    <string name="day_7_desc">Pratiquer la gratitude quotidienne réoriente votre esprit vers la positivité, favorisant le bonheur durable et la sérénité intérieure.</string>
+
+    <string name="day_8">Jour 8</string>
+    <string name="day_8_title">Faites une marche rapide de 20 min</string>
+    <string name="day_8_desc">Augmentez votre rythme cardiaque et libérez des endorphines avec une marche active et stimulante dans votre quartier.</string>
+
+    <string name="day_9">Jour 9</string>
+    <string name="day_9_title">Éteignez les écrans 1h avant de dormir</string>
+    <string name="day_9_desc">Évitez la lumière bleue avant le coucher pour aider votre corps à produire la mélatonine nécessaire à un sommeil profond et réparateur.</string>
+
+    <string name="day_10">Jour 10</string>
+    <string name="day_10_title">Essayez une nouvelle recette saine</string>
+    <string name="day_10_desc">Expérimentez en cuisine avec des ingrédients frais et sains pour préparer un repas à la fois nutritif et savoureux.</string>
+
+    <string name="day_11">Jour 11</string>
+    <string name="day_11_title">Contactez un ami proche</string>
+    <string name="day_11_desc">Prenez des nouvelles par un appel ou un message chaleureux pour entretenir vos amitiés et partager un moment authentique.</string>
+
+    <string name="day_12">Jour 12</string>
+    <string name="day_12_title">Pratiquez la respiration profonde</string>
+    <string name="day_12_desc">Inspirez profondément pendant 4 secondes, retenez pendant 4 secondes et expirez pendant 6 secondes pour apaiser instantanément votre système nerveux.</string>
+
+    <string name="day_13">Jour 13</string>
+    <string name="day_13_title">Rangez votre espace de travail</string>
+    <string name="day_13_desc">Organiser votre bureau libère votre esprit, améliore la concentration et crée un environnement de travail paisible.</string>
+
+    <string name="day_14">Jour 14</string>
+    <string name="day_14_title">Écoutez de la musique apaisante</string>
+    <string name="day_14_desc">La musique possède un pouvoir extraordinaire pour élever votre humeur, réduire le sentiment d\'anxiété et stimuler la créativité.</string>
+
+    <string name="day_15">Jour 15</string>
+    <string name="day_15_title">Prenez un bain ou une douche relaxante</string>
+    <string name="day_15_desc">Laissez l\'eau chaude apaiser vos muscles fatigués, libérer les tensions physiques et dissiper le stress de la journée.</string>
+
+    <string name="day_16">Jour 16</string>
+    <string name="day_16_title">Lisez un chapitre d\'un livre inspirant</string>
+    <string name="day_16_desc">Plongez dans une lecture captivante pour stimuler votre esprit, éveiller votre imagination et découvrir de nouvelles idées.</string>
+
+    <string name="day_17">Jour 17</string>
+    <string name="day_17_title">Faites attention à votre posture</string>
+    <string name="day_17_desc">Redressez-vous, les épaules détendues, pour améliorer la capacité respiratoire, réduire les tensions dorsales et renforcer la confiance en soi.</string>
+
+    <string name="day_18">Jour 18</string>
+    <string name="day_18_title">Faites un léger jogging matinal</string>
+    <string name="day_18_desc">Éveillez votre système cardiovasculaire et stimulez votre métabolisme dès le matin avec une course douce et rafraîchissante.</string>
+
+    <string name="day_19">Jour 19</string>
+    <string name="day_19_title">Dégustez une tisane chaude</string>
+    <string name="day_19_desc">Savourer une infusion à la camomille, à la menthe ou un thé vert apaise la digestion et offre un instant de tranquillité consciente.</string>
+
+    <string name="day_20">Jour 20</string>
+    <string name="day_20_title">Faites un compliment sincère</string>
+    <string name="day_20_desc">Partagez des mots bienveillants avec un collègue ou un proche — la gentillesse crée une vague de joie partagée.</string>
+
+    <string name="day_21">Jour 21</string>
+    <string name="day_21_title">Nettoyez votre smartphone</string>
+    <string name="day_21_desc">Supprimez les applications inutilisées, désactivez les notifications superflues et organisez votre écran pour réduire la fatigue numérique.</string>
+
+    <string name="day_22">Jour 22</string>
+    <string name="day_22_title">Pratiquez 15 minutes de yoga</string>
+    <string name="day_22_desc">Enchaînez des postures de yoga simples pour développer l\'équilibre physique, la stabilité et l\'harmonie entre le corps et l\'esprit.</string>
+
+    <string name="day_23">Jour 23</string>
+    <string name="day_23_title">Dormez 8 heures de sommeil de qualité</string>
+    <string name="day_23_desc">Accordez-vous un coucher précoce ce soir pour offrir à votre corps et votre cerveau le temps idéal de régénération.</string>
+
+    <string name="day_24">Jour 24</string>
+    <string name="day_24_title">Découvrez un nouveau sujet</string>
+    <string name="day_24_desc">Lisez un article ou regardez un documentaire captivant sur un thème que vous avez toujours souhaité explorer.</string>
+
+    <string name="day_25">Jour 25</string>
+    <string name="day_25_title">Cuisinez un plat fait maison</string>
+    <string name="day_25_desc">Appréciez le plaisir de préparer des légumes frais et de concocter un repas savoureux et nutritif.</string>
+
+    <string name="day_26">Jour 26</string>
+    <string name="day_26_title">Prenez soin d\'une plante d\'intérieur</string>
+    <string name="day_26_desc">Arroser, tailler ou exposer une plante au soleil vous connecte à la nature et apporte une présence apaisante dans votre foyer.</string>
+
+    <string name="day_27">Jour 27</string>
+    <string name="day_27_title">Faites un balayage corporel de 5 min</string>
+    <string name="day_27_desc">Allongez-vous au calme et observez mentalement chaque partie de votre corps avec bienveillance, de la tête aux pieds.</string>
+
+    <string name="day_28">Jour 28</string>
+    <string name="day_28_title">Rédigez vos objectifs du mois prochain</string>
+    <string name="day_28_desc">Clarifiez vos priorités et vos aspirations pour aborder le mois à venir avec clarté, motivation et enthousiasme.</string>
+
+    <string name="day_29">Jour 29</string>
+    <string name="day_29_title">Réalisez un acte de gentillesse spontané</string>
+    <string name="day_29_desc">Tenez une porte, offrez un mot d\'encouragement ou aidez un voisin pour illuminer inopinément la journée de quelqu\'un.</string>
+
+    <string name="day_30">Jour 30</string>
+    <string name="day_30_title">Célébrez votre parcours de 30 jours</string>
+    <string name="day_30_desc">Félicitations pour avoir accompli 30 jours de bien-être ! Soyez fier de chaque petite habitude positive développée tout au long du mois.</string>
+</resources>
